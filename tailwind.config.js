@@ -8,7 +8,7 @@ module.exports = {
         bottompattern:'url("/vedansh/cta-bg.jpg")'
       },
       spacing:{
-        100: '40rem'
+        '100': '40rem'
       },
       screens:{
         'gd': '930px'
