@@ -11,7 +11,7 @@ module.exports = {
         100: '40rem'
       },
       screens:{
-        gd: '930px'
+        'gd': '930px'
       }
     },
   },
